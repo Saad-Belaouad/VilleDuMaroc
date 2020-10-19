@@ -10,7 +10,7 @@ https://villedumaroc.000webhostapp.com/
 ##
 ![](images/Capture6.PNG)
 ## villes
-![](images/Capture7.PNG)
+![](images/capture7.PNG)
 ## videos
 ![](images/Capture3.PNG)
 ##
